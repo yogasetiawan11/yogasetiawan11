@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yoga setiawan</h1>
 <h3 align="center">A passionate Devops or Cloud engineer From Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **DevSecops and MLOps**
 
@@ -8,6 +9,7 @@
 - 💬 Ask me about **DevOps and Cloud.**
 
 - 📫 How to reach me **setiawan4business@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogasetiawan11&show_icons=true&locale=en" alt="yogasetiawan11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogasetiawan11&" alt="yogasetiawan11" /></p>
+
 
